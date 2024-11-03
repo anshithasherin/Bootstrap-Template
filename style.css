@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    max-width: 0px;
+    box-sizing: border-box;
+}
+.nav-item{
+    border: 2px solid white;
+    margin-right: 10px;
+}
